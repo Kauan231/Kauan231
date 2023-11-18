@@ -16,13 +16,10 @@ Minhas redes :
 :mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" /> Senai </a>
 
 
-<h3 align='right'> Linguagens que utilizo: </h3>
+<h3 align='left'> Linguagens que utilizo: </h3>
+<h3 align='right'> Frontend: </h3>
 
-[![C#](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/C_Sharp)
-[![C++](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/C%2B%2B)
-[![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
-
-Frontend:
+![Linguagens](https://skillicons.dev/icons?i=cs,cpp,js&perline=3)
 
 ![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css&perline=3)
 
