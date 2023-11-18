@@ -15,10 +15,28 @@ Minhas redes :
 <br>
 :mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" /> Senai </a>
 
-Linguagens que Utilizo:
+Linguagens que utilizo:
 <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
-
-
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+
+Frontend:
+![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
+[![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React)
+[![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/CSS3)
+[![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
+[![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
+
+Backend:
+[![Node](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
+
+Desenvolvimento de Jogos:
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+[![Unity](https://skills.thijs.gg/icons?i=unity)](https://pt.wikipedia.org/wiki/nodejs)
+
+Ferramentas que utilizo:
+![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
