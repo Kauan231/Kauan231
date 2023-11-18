@@ -38,5 +38,5 @@ Desenvolvimento de Jogos:
 
 Ferramentas que utilizo:
 
-![Ferramentas](https://skills.thijs.gg/icons?i=visual-studio-code,git,github,figma,ps,ai,pr)
+![Ferramentas](https://skills.thijs.gg/icons?i=vscode,git,github,figma,ps,ai,pr)
 
