@@ -17,8 +17,6 @@ Minhas redes :
 
 <div align='left'>
   Linguagens que utilizo:
-    
-  <br>
   
   [![C#](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/C_Sharp)
   [![C++](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/C%2B%2B)
@@ -28,8 +26,6 @@ Minhas redes :
 
 <div align='right'>
   Frontend:
-  
-  <br>
   
   [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
   [![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React)
