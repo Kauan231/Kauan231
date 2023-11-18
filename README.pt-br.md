@@ -19,11 +19,12 @@ Minhas redes :
 <h3 align='left'> Linguagens que utilizo: </h3> <h3 align='right'> Frontend: </h3>
 <div align='left'>
   
-  ![Linguagens](https://skillicons.dev/icons?i=cs,cpp,js&perline=3)
+    | :--- |  ![Linguagens](https://skillicons.dev/icons?i=cs,cpp,js&perline=3)
 </div>
 <div align='right'>
   
-  ![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css&perline=3)
+ 
+  | ---: | ![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css&perline=3)
 </div>
 
 Backend:
