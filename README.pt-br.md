@@ -33,6 +33,10 @@ Backend:
 
 [![Node](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
 
+Banco de Dados:
+[![MySql](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/MySQL)
+[![MongoDb](https://skills.thijs.gg/icons?i=mongodb)](https://pt.wikipedia.org/wiki/MongoDB)
+
 Desenvolvimento de Jogos:
 
 [![Unity](https://skills.thijs.gg/icons?i=unity)](https://pt.wikipedia.org/wiki/Unity)
