@@ -17,7 +17,7 @@ Minhas redes :
 
 Linguagens que utilizo:
 
-[![Linguagens](https://skillicons.dev/icons?i=cs,cpp,js)(#)]
+[![&#x200B;](https://skillicons.dev/icons?i=cs,cpp,js)(#)]
   
 Frontend:
 
