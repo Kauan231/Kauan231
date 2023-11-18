@@ -14,3 +14,9 @@ Minhas redes :
 :blue_book: Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.unisantos.br/" /> Unisantos </a>
 <br>
 :mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" /> Senai </a>
+
+Linguagens que Utilizo:
+<br>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=cpp&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
