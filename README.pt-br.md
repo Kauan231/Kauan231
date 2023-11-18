@@ -24,7 +24,7 @@ Minhas redes :
 
 </div>
 
-<div align='right'>
+<div>
   Frontend:
   
   [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
