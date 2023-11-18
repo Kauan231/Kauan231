@@ -16,6 +16,7 @@ Social media :
 :mortar_board: Completed a Technician in Electrical & Electronics course at <a href="https://santos.sp.senai.br/" /> Senai </a>
 
 Languages:
+
 ![Languages](https://skillicons.dev/icons?i=cs,cpp,js)
   
 Frontend:
