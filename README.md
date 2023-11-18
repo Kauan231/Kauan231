@@ -31,7 +31,6 @@ Databases:
 
 [![Databases](https://skills.thijs.gg/icons?i=mysql,mongodb)](#)
 
-
 Game Development:
 
 [![Gamedev](https://skills.thijs.gg/icons?i=unity,blender)](#)
