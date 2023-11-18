@@ -17,26 +17,26 @@ Minhas redes :
 
 Linguagens que utilizo:
 
-![Linguagens](https://skillicons.dev/icons?i=cs,cpp,js)
+[![Linguagens](https://skillicons.dev/icons?i=cs,cpp,js)(#)]
   
 Frontend:
 
-![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css)
+[![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css)(#)]
 
 Backend:
 
-![Backend](https://skills.thijs.gg/icons?i=nodejs,nginx)
+[![Backend](https://skills.thijs.gg/icons?i=nodejs,nginx)(#)]
 
 Banco de Dados:
 
-![BancoDeDados](https://skills.thijs.gg/icons?i=mysql,mongodb)
+[![BancoDeDados](https://skills.thijs.gg/icons?i=mysql,mongodb)(#)]
 
 
 Desenvolvimento de Jogos:
 
-![Gamedev](https://skills.thijs.gg/icons?i=unity,blender)
+[![Gamedev](https://skills.thijs.gg/icons?i=unity,blender)(#)]
 
 Ferramentas que utilizo:
 
-![Ferramentas](https://skills.thijs.gg/icons?i=vscode,git,github,figma,ps,ai,pr)
+[![Ferramentas](https://skills.thijs.gg/icons?i=vscode,git,github,figma,ps,ai,pr)(#)]
 
