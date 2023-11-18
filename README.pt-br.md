@@ -16,12 +16,15 @@ Minhas redes :
 :mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" /> Senai </a>
 
 Linguagens que utilizo:
+
 ![Linguagens](https://skillicons.dev/icons?i=cs,cpp,js)
   
 Frontend:
+
 ![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css)
 
 Backend:
+
 ![Backend](https://skills.thijs.gg/icons?i=nodejs)
 
 Banco de Dados:
@@ -30,8 +33,10 @@ Banco de Dados:
 
 
 Desenvolvimento de Jogos:
+
 ![Gamedev](https://skills.thijs.gg/icons?i=unity,blender)
 
 Ferramentas que utilizo:
-![Ferramentas](https://skills.thijs.gg/icons?i=visual-studio-code,git,github,figma)
+
+![Ferramentas](https://skills.thijs.gg/icons?i=visual-studio-code,git,github,figma,ps,ai,pr)
 
