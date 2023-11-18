@@ -16,7 +16,7 @@ Minhas redes :
 :mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" /> Senai </a>
 
 
-<h3 align='left'> Linguagens que utilizo: </h3>
+<h3 align='right'> Linguagens que utilizo: </h3>
 
 [![C#](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/C_Sharp)
 [![C++](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/C%2B%2B)
