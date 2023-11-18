@@ -15,42 +15,28 @@ Minhas redes :
 <br>
 :mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" /> Senai </a>
 
-<div align='left'>
-  Linguagens que utilizo:
+Linguagens que utilizo:
+
+[![C#](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/C_Sharp)
+[![C++](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/C%2B%2B)
+[![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
+
+Frontend:
+
+[![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
+[![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React)
+[![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/CSS3)
+[![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
+[![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
   
-  [![C#](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/C_Sharp)
-  [![C++](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/C%2B%2B)
-  [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
-
-</div>
-
-<div>
-  Frontend:
-  
-  [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
-  [![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React)
-  [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/CSS3)
-  [![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
-  [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
-  
-</div>
-
-  <br>
-
-<div align='left'>
 Backend:
-<br>
-[![Node](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
-</div>
 
-<div align='right'>
+[![Node](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
+
 Desenvolvimento de Jogos:
-<br>
+
 [![Unity](https://skills.thijs.gg/icons?i=unity)](https://pt.wikipedia.org/wiki/Unity)
 [![Blender](https://skills.thijs.gg/icons?i=blender)](https://pt.wikipedia.org/wiki/Blender)
-</div>
-
-<br>
 
 Ferramentas que utilizo:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
