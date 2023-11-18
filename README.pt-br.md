@@ -16,24 +16,30 @@ Minhas redes :
 :mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" /> Senai </a>
 
 <div align='left'>
-Linguagens que utilizo:
-<br>
-[![C#](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/C_Sharp)
-[![C++](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/C%2B%2B)
-[![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
+  Linguagens que utilizo:
+    
+  <br>
+  
+  [![C#](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/C_Sharp)
+  [![C++](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/C%2B%2B)
+  [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
+
 </div>
 
 <div align='right'>
-Frontend:
-<br>
-[![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
-[![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React)
-[![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/CSS3)
-[![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
-[![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
+  Frontend:
+  
+  <br>
+  
+  [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
+  [![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React)
+  [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/CSS3)
+  [![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
+  [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
+  
 </div>
 
-<br>
+  <br>
 
 <div align='left'>
 Backend:
