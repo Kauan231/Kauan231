@@ -10,5 +10,6 @@ Minhas redes :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-ramos/)
 
-:blue_book: Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.unisantos.br/" Unisantos />
-:mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" Senai />
+:blue_book: Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.unisantos.br/" Unisantos /a>
+<br>
+:mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" Senai /a>
