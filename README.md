@@ -15,30 +15,29 @@ Social media :
 <br>
 :mortar_board: Completed a Technician in Electrical & Electronics course at <a href="https://santos.sp.senai.br/" /> Senai </a>
 
-<div clickable='false'>
 Languages:
 
-![Languages](https://skillicons.dev/icons?i=cs,cpp,js)
+[![Languages](https://skillicons.dev/icons?i=cs,cpp,js)](#)
   
 Frontend:
 
-![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css)
+[![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css)](#)
 
 Backend:
 
-![Backend](https://skills.thijs.gg/icons?i=nodejs,nginx)
+[![Backend](https://skills.thijs.gg/icons?i=nodejs,nginx)](#)
 
 Databases:
 
-![Databases](https://skills.thijs.gg/icons?i=mysql,mongodb)
+[![Databases](https://skills.thijs.gg/icons?i=mysql,mongodb)](#)
 
 
 Game Development:
 
-![Gamedev](https://skills.thijs.gg/icons?i=unity,blender)
+[![Gamedev](https://skills.thijs.gg/icons?i=unity,blender)](#)
 
 Tools:
 
-![Tools](https://skills.thijs.gg/icons?i=vscode,git,github,figma,ps,ai,pr)
-</div>
+[![Tools](https://skills.thijs.gg/icons?i=vscode,git,github,figma,ps,ai,pr)](#)
+
 
