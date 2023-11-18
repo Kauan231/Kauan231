@@ -18,7 +18,7 @@ Minhas redes :
 Linguagens que utilizo:
 
 [![Linguagens](https://skillicons.dev/icons?i=cs,cpp,js)](#)
-  
+
 Frontend:
 
 [![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css)](#)
@@ -30,7 +30,6 @@ Backend:
 Banco de Dados:
 
 [![BancoDeDados](https://skills.thijs.gg/icons?i=mysql,mongodb)](#)
-
 
 Desenvolvimento de Jogos:
 
