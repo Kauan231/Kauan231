@@ -11,7 +11,7 @@ Social media :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-ramos/?locale=en_US)
 </div>
 
-:blue_book: EEnrolled in a Systems Development & Analysis course at <a href="https://www.unisantos.br/" /> Unisantos </a>
+:blue_book: Enrolled in a Systems Development & Analysis course at <a href="https://www.unisantos.br/" /> Unisantos </a>
 <br>
 :mortar_board: Completed a Technician in Electrical & Electronics course at <a href="https://santos.sp.senai.br/" /> Senai </a>
 
