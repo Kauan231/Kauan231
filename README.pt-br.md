@@ -4,4 +4,3 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0067A9&multiline=true&random=true&width=435&height=60&lines=Ol%C3%A1%2C+sou+Kauan+Ramos+!;Desenvolvedor+de+Jogos+e+Backend)](https://git.io/typing-svg)
 
 
-
