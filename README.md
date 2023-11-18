@@ -15,6 +15,7 @@ Social media :
 <br>
 :mortar_board: Completed a Technician in Electrical & Electronics course at <a href="https://santos.sp.senai.br/" /> Senai </a>
 
+<div clickable='false'>
 Languages:
 
 ![Languages](https://skillicons.dev/icons?i=cs,cpp,js)
@@ -39,4 +40,5 @@ Game Development:
 Tools:
 
 ![Tools](https://skills.thijs.gg/icons?i=vscode,git,github,figma,ps,ai,pr)
+</div>
 
