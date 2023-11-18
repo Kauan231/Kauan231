@@ -3,7 +3,7 @@
 
 <h1> Hi, I am Kauan Ramos! </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=000000&multiline=false&repeat=false&random=false&height=50&lines=Desenvolvedor+de+Jogos%2FBackend)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=000000&multiline=false&repeat=false&random=false&height=50&lines=Game%2FBackend+Developer)](#)
 
 <div align='center'>
 Social media :
