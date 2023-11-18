@@ -25,7 +25,7 @@ Frontend:
 
 Backend:
 
-![Backend](https://skills.thijs.gg/icons?i=nodejs)
+![Backend](https://skills.thijs.gg/icons?i=nodejs,nginx)
 
 Banco de Dados:
 
