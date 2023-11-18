@@ -23,7 +23,7 @@ Linguagens que utilizo:
 
 Frontend:
 
-[![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css&perline=3)]
+![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css&perline=3)
 
 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
 [![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React)
