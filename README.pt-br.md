@@ -15,36 +15,23 @@ Minhas redes :
 <br>
 :mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" /> Senai </a>
 
-<div align='left'>
-    Linguagens que utilizo:
+Linguagens que utilizo:
+![Linguagens](https://skillicons.dev/icons?i=cs,cpp,js)
   
-  ![Linguagens](https://skillicons.dev/icons?i=cs,cpp,js&perline=3)
-</div>
-<div align='right'>
-  Frontend:
-  
-  ![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css&perline=3)
-</div>
-
-
+Frontend:
+![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css)
 
 Backend:
-
-[![Node](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
+![Backend](https://skills.thijs.gg/icons?i=nodejs)
 
 Banco de Dados:
 
-[![MySql](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/MySQL)
-[![MongoDb](https://skills.thijs.gg/icons?i=mongodb)](https://pt.wikipedia.org/wiki/MongoDB)
+![BancoDeDados](https://skills.thijs.gg/icons?i=mysql,mongodb)
+
 
 Desenvolvimento de Jogos:
-
-[![Unity](https://skills.thijs.gg/icons?i=unity)](https://pt.wikipedia.org/wiki/Unity)
-[![Blender](https://skills.thijs.gg/icons?i=blender)](https://pt.wikipedia.org/wiki/Blender)
+![Gamedev](https://skills.thijs.gg/icons?i=unity,blender)
 
 Ferramentas que utilizo:
+![Ferramentas](https://skills.thijs.gg/icons?i=visual-studio-code,git,github,figma)
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/figma)
