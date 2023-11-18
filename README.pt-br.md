@@ -17,15 +17,15 @@ Minhas redes :
 
 Linguagens que utilizo:
 
-[Linguagens](https://skillicons.dev/icons?i=cs,cpp,js)
+[![Linguagens](https://skillicons.dev/icons?i=cs,cpp,js)](#)
   
 Frontend:
 
-[Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css)
+![Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css)
 
 Backend:
 
-[Backend](https://skills.thijs.gg/icons?i=nodejs,nginx)
+![Backend](https://skills.thijs.gg/icons?i=nodejs,nginx)
 
 Banco de Dados:
 
