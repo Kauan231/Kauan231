@@ -23,6 +23,8 @@ Linguagens que utilizo:
 
 Frontend:
 
+[Frontend](https://skillicons.dev/icons?i=js,react,bootstrap,html,css&perline=3)
+
 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
 [![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React)
 [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/CSS3)
@@ -44,6 +46,7 @@ Desenvolvimento de Jogos:
 [![Blender](https://skills.thijs.gg/icons?i=blender)](https://pt.wikipedia.org/wiki/Blender)
 
 Ferramentas que utilizo:
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
