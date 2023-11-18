@@ -18,5 +18,7 @@ Minhas redes :
 Linguagens que Utilizo:
 <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+
+
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
