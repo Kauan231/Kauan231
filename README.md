@@ -5,13 +5,14 @@
 
 <div align='center'>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=000000&multiline=false&repeat=false&center=true&random=false&height=50&lines=Game%2FBackend+Developer)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&multiline=false&repeat=false&center=true&random=false&height=50&lines=Game%2FBackend+Developer)](#)
 
-<h5> Social media : </h5>
+<h3> Social media : </h3>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-ramos/?locale=en_US)
 [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kauan231.itch.io/)
 [![Website](https://img.shields.io/badge/my%20Website-000000?style=for-the-badge)](https://kauanramos.vercel.app/)
+
 
 </div>
 
