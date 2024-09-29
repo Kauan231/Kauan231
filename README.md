@@ -2,7 +2,7 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Kauan231/Kauan231/blob/main/README.pt-br.md)
 
 <h1> Hi, I am Kauan Ramos! </h1>
-<a href="https://kauanramos.vercel.app/" /> My Website </a>
+[![Website](https://img.shields.io/badge/my%20Website-000000?style=for-the-badge)](https://kauanramos.vercel.app/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=ffffff&multiline=false&repeat=false&random=false&height=50&lines=Game%2FBackend+Developer)](#)
 
