@@ -18,6 +18,8 @@
 :blue_book: Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.unisantos.br/" /> Unisantos </a>
 <br>
 :mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" /> Senai </a>
+<br>
+:mortar_board: Formado em Técnico em administração pela <a href="https://www.cps.sp.gov.br/etecs/etec-dona-escolastica-rosa/" /> Etec Dona Escolástica Rosa </a>
 
 ## Linguagens:
 
