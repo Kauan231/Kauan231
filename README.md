@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=ffffff&multiline=false&repeat=false&random=false&height=50&lines=Game%2FBackend+Developer)](#)
 
 <div align='center'>
-<h2> Social media : </h2>
+<h6> Social media : </h6>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-ramos/?locale=en_US)
 [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kauan231.itch.io/)
