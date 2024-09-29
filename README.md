@@ -6,8 +6,10 @@
 
 
 <div align='center'>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&multiline=false&repeat=false&center=true&vCenter=true&random=false&height=25&lines=Game%2FBackend+Developer)](#)
 ----
+
 <h3> Social media : </h3>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-ramos/?locale=en_US)
