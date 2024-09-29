@@ -15,7 +15,7 @@
 [![Website](https://img.shields.io/badge/my%20Website-000000?style=for-the-badge)](https://kauanramos.vercel.app/)
 </div>
 
-:blue_book: Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.unisantos.br/" /> Unisantos </a>
+:blue_book: Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.unisantos.br/" /> Unisantos </a>
 <br>
 :mortar_board: Formado em Técnico em eletroeletrônica pelo <a href="https://santos.sp.senai.br/" /> Senai </a>
 
