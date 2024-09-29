@@ -5,7 +5,7 @@
 
 <div align='center'>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&multiline=false&repeat=false&center=true&vCenter=true&random=false&height=30&lines=Desenvolvedor+de+Jogos%2FBackend)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&multiline=false&repeat=false&center=true&vCenter=true&random=false&height=30&width=500&lines=Desenvolvedor+de+Jogos%2FBackend)](#)
 ----
 
 <h3> Minhas redes : </h3>
