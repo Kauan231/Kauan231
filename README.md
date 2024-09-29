@@ -5,7 +5,7 @@
 
 <div align='center'>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=000000&multiline=false&repeat=false&random=false&height=50&lines=Game%2FBackend+Developer)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=000000&multiline=false&repeat=false&center=true&random=false&height=50&lines=Game%2FBackend+Developer)](#)
 
 <h5> Social media : </h5>
   
