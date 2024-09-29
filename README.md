@@ -2,7 +2,6 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Kauan231/Kauan231/blob/main/README.pt-br.md)
 
 <h1> Hi, I am Kauan Ramos! </h1>
-[![Website](https://img.shields.io/badge/my%20Website-000000?style=for-the-badge)](https://kauanramos.vercel.app/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=ffffff&multiline=false&repeat=false&random=false&height=50&lines=Game%2FBackend+Developer)](#)
 
@@ -11,6 +10,7 @@ Social media :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-ramos/?locale=en_US)
 [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kauan231.itch.io/)
+[![Website](https://img.shields.io/badge/my%20Website-000000?style=for-the-badge)](https://kauanramos.vercel.app/)
 </div>
 
 :blue_book: Graduated from Systems Development & Analysis course at <a href="https://www.unisantos.br/" /> Unisantos </a>
