@@ -3,10 +3,12 @@
 
 <h1> Olá, sou Kauan Ramos! </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=ffffff&multiline=false&repeat=false&random=false&height=50&lines=Desenvolvedor+de+Jogos%2FBackend)](#)
-
 <div align='center'>
-Minhas redes :
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&multiline=false&repeat=false&center=true&vCenter=true&random=false&height=25&lines=Desenvolvedor+de+Jogos%2FBackend)](#)
+----
+
+<h3> Minhas redes : </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-ramos/)
 [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kauan231.itch.io/)
