@@ -20,6 +20,8 @@
 :blue_book: Graduated from Systems Development & Analysis course at <a href="https://www.unisantos.br/" /> Unisantos </a>
 <br>
 :mortar_board: Completed a Technician in Electrical & Electronics course at <a href="https://santos.sp.senai.br/" /> Senai </a>
+<br>
+:mortar_board: Completed a Technician in Administration course at <a href="https://www.cps.sp.gov.br/etecs/etec-dona-escolastica-rosa/" /> Etec Escolástica Rosa </a>
 
 ## Languages:
 
