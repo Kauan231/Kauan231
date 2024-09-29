@@ -17,7 +17,7 @@
 </div>
 
 
-:blue_book: Graduated from Systems Development & Analysis course at <a href="https://www.unisantos.br/" /> Unisantos </a>
+:mortar_board: Graduated from Systems Development & Analysis course at <a href="https://www.unisantos.br/" /> Unisantos </a>
 <br>
 :mortar_board: Completed a Technician in Electrical & Electronics course at <a href="https://santos.sp.senai.br/" /> Senai </a>
 <br>
